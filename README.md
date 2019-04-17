@@ -1,0 +1,1 @@
+# trinug-static-demo
